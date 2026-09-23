@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adithya_g17" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_g17?logo=twitter&style=for-the-badge" alt="adithya_g17" /></a> </p>
 
-- 🔭 I’m currently working on **backend web development using go-lang**
+- 🔭 I’m currently working as an **SDE at IBM India Software Labs** — building OpenTelemetry-based observability platforms, onboarding products onto CP4I, and shipping agentic developer tooling with MCP
 
-- 🌱 I’m currently learning **cloud computing with microsoft azure**
+- 🌱 I’m currently diving deep into **LLM inference on Kubernetes** — distributed systems, GPU scheduling, and parallel compute with the [llm-d](https://github.com/llm-d/llm-d) CNCF project
 
 - 📫 How to reach me **adithyag020@gmail.com**
 
